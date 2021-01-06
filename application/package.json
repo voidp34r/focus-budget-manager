@@ -16,7 +16,7 @@
     "deploy": "node ./node_modules/vue-gh-pages/index.js"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "vue": "^2.5.2",
     "vue-cookie": "^1.1.4",
     "vue-gh-pages": "^1.7.1",
